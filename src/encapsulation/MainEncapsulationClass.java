@@ -1,4 +1,4 @@
-package encapsulationexample;
+package encapsulation;
 
 public class MainEncapsulationClass {
 

@@ -1,4 +1,4 @@
-package polymorphismexample;
+package polymorphism;
 
 public class PerformSum {
 

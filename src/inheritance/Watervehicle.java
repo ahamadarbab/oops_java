@@ -1,4 +1,4 @@
-package inheritanceexample;
+package inheritance;
 
 public class Watervehicle extends Vehicle {
 

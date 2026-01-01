@@ -1,4 +1,4 @@
-package classesandobjects;
+package classes_objects;
 
 public class MainClass {
 

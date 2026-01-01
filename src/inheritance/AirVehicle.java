@@ -1,4 +1,4 @@
-package inheritanceexample;
+package inheritance;
 
 public class AirVehicle extends Vehicle {
 

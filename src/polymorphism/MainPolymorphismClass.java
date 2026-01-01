@@ -1,4 +1,4 @@
-package polymorphismexample;
+package polymorphism;
 
 public class MainPolymorphismClass {
     public static void main(String[] args) {
@@ -12,3 +12,4 @@ public class MainPolymorphismClass {
         performSum1.sum(3.85, 5.15);
     }
 }
+
