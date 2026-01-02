@@ -1,4 +1,4 @@
-package inheritance;
+package method_overriding;
 
 public class AirVehicle extends Vehicle {
 

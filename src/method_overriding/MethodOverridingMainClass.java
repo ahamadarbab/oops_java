@@ -1,6 +1,6 @@
-package inheritance;
+package method_overriding;
 
-public class MainInheritanceClass {
+public class MethodOverridingMainClass {
     public static void main(String[] args) {
 
         System.out.println("-----------Vehicle parent class------------");

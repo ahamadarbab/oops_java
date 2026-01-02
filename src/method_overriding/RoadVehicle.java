@@ -1,6 +1,6 @@
-package inheritance;
+package method_overriding;
 
-public class RoadVehicle extends Vehicle {
+public class RoadVehicle extends Vehicle{
 
     public void travelOnRoad() {
         System.out.println("These vehicles travels on road");
