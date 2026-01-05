@@ -29,5 +29,6 @@ public class MainInheritanceClass {
         roadVehicle1.start();
         roadVehicle1.stop();
         roadVehicle1.fuel();
+
     }
 }

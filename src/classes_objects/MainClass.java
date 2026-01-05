@@ -21,5 +21,21 @@ public class MainClass {
         // it will create an object and assign values in parameterized constructor
         Student student2 = new Student(234, "Vijay", "08/10/2009", "vijay@gmail.com", "10th");
         System.out.println("student2 after assigning values : " + student2);
+
+        // static examples
+        Demo demo1 = new Demo();
+        System.out.println("abc is non-static and its value is : " + demo1.abc);
+        System.out.println("xyz is static and its value is : " + Demo.xyz);
+        demo1.demo1();
+        Demo.demo2();
+
+        // final variables
+        final int aaa = 200;
+        int bbb = 400;
+        System.out.println("aaa is : " + aaa);
+        System.out.println("bbb is : " + bbb);
+
+        // aaa = 700;  cannot change its value since it is final
+        bbb = 900;
     }
 }

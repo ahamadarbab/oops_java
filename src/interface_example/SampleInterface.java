@@ -16,4 +16,5 @@ public interface SampleInterface {
     void sample3();    //public abstract void sample3();
 
     public abstract void sample6();
+
 }

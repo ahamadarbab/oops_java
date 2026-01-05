@@ -13,4 +13,5 @@ public class Vehicle {
     public void fuel() {
         System.out.println("Vehicle has fueled");
     }
+
 }

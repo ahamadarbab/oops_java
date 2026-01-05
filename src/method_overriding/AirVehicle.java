@@ -20,4 +20,5 @@ public class AirVehicle extends Vehicle {
     public void fuel() {
         System.out.println("Air Vehicle has fueled");
     }
+
 }

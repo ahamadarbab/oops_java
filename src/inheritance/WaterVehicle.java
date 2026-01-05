@@ -20,5 +20,6 @@ public class WaterVehicle extends Vehicle {
     public void fuel() {
         System.out.println("Water Vehicle has fueled");
     }
+
 }
 

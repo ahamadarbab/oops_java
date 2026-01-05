@@ -7,6 +7,7 @@ public class AbstractionChild extends AbstractionDemo {
         System.out.println("demo3 abstract method implementation in AbstractionChild class");
     }
 
+
     @Override
     public void demo4() {
         System.out.println("demo4 abstract method implementation in AbstractionChild class");

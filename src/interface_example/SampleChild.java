@@ -30,4 +30,5 @@ public class SampleChild implements SampleInterface, SampleInterface2 {
     public void sample6() {
         System.out.println("sample6 method implementation in child class");
     }
+
 }

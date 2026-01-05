@@ -20,4 +20,5 @@ public class RoadVehicle extends Vehicle {
     public void fuel() {
         System.out.println("Road Vehicle has fueled");
     }
+
 }

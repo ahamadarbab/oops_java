@@ -3,6 +3,7 @@ package encapsulation;
 public class MainEncapsulationClass {
 
     public static void main(String[] args) {
+
         Teacher teacher1 = new Teacher();
 
         // assigning values
